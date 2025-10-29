@@ -81,12 +81,12 @@ a {
 }
 
 .hero button {
-    font-size: 40px;
+    font-size: 30px;
     border: 0px;
     background-color: darkblue;
     color: white;
     margin-top: 40px;
-    width: 500px;
+    width: 800px;
     border-radius: 10px;
 }
 
@@ -129,6 +129,7 @@ a {
     list-style-type: disc;
     margin-left: 1.2em;
 }
+
 
 
 
